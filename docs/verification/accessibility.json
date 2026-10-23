@@ -1,0 +1,423 @@
+{
+  "scope": "Chromium desktop, reduced motion; automated WCAG tags, not a certification",
+  "results": [
+    {
+      "path": "/en",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "target-size",
+          "impact": "serious",
+          "description": "Ensure touch targets have sufficient size and space",
+          "nodes": [
+            {
+              "target": ["a[href$=\"#stage-2\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-3\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-4\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-5\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-6\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-7\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-8\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            }
+          ]
+        }
+      ],
+      "incomplete": 2,
+      "passes": 25
+    },
+    {
+      "path": "/en/features",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 24
+    },
+    {
+      "path": "/en/pricing",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/en/help",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 25
+    },
+    {
+      "path": "/en/account",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 24
+    },
+    {
+      "path": "/en/showcase",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 27
+    },
+    {
+      "path": "/en/newsletter",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/en/plugins",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/de",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "target-size",
+          "impact": "serious",
+          "description": "Ensure touch targets have sufficient size and space",
+          "nodes": [
+            {
+              "target": ["a[href$=\"#stage-2\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-3\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-4\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-5\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-6\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-7\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-8\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            }
+          ]
+        }
+      ],
+      "incomplete": 2,
+      "passes": 25
+    },
+    {
+      "path": "/en",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "target-size",
+          "impact": "serious",
+          "description": "Ensure touch targets have sufficient size and space",
+          "nodes": [
+            {
+              "target": ["a[href$=\"#stage-2\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-3\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-4\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-5\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-6\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-7\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-8\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            }
+          ]
+        }
+      ],
+      "incomplete": 2,
+      "passes": 25
+    },
+    {
+      "path": "/en/features",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [".GWSZSW_intro > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 14.4pt (19.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["figcaption"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 9.4pt (12.48px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_note"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 10.6pt (14.08px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ],
+      "incomplete": 1,
+      "passes": 24
+    },
+    {
+      "path": "/en/pricing",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [".GWSZSW_intro > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 14.4pt (19.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_billingControl > span"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > .GWSZSW_planLabel"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 8.2pt (10.88px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > p:nth-child(4)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 10.8pt (14.4px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > ul > li:nth-child(1)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > ul > li:nth-child(2)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > ul > li:nth-child(3)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > dl > div:nth-child(1) > dt"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > dl > div:nth-child(1) > dd"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.14 (foreground color: #38bdf8, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > dl > div:nth-child(2) > dt"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > dl > div:nth-child(2) > dd"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.14 (foreground color: #38bdf8, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > .GWSZSW_draftCta"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 10.2pt (13.6px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > .GWSZSW_planLabel"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 8.2pt (10.88px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > p:nth-child(4)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 10.8pt (14.4px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > ul > li:nth-child(1)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > ul > li:nth-child(2)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > ul > li:nth-child(3)"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > dl > div:nth-child(1) > dt"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > dl > div:nth-child(1) > dd"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.14 (foreground color: #38bdf8, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > dl > div:nth-child(2) > dt"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > dl > div:nth-child(2) > dd"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.14 (foreground color: #38bdf8, background color: #ffffff, font size: 9.8pt (13.12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_featuredPlan > .GWSZSW_draftCta"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.34 (foreground color: #a7a9b3, background color: #ffffff, font size: 10.2pt (13.6px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_note"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 10.6pt (14.08px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/en/help",
+      "theme": "light",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 25
+    },
+    {
+      "path": "/en/account",
+      "theme": "light",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 24
+    },
+    {
+      "path": "/en/showcase",
+      "theme": "light",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 27
+    },
+    {
+      "path": "/en/newsletter",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [".GWSZSW_intro > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 14.4pt (19.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_unsubscribeLink > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 10.8pt (14.4px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [".GWSZSW_newsletterArchive > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(1) > div > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": ["article:nth-child(2) > div > p"],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.2 (foreground color: #a7a9b3, background color: #f7f8fa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        }
+      ],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/en/plugins",
+      "theme": "light",
+      "violations": [],
+      "incomplete": 1,
+      "passes": 26
+    },
+    {
+      "path": "/de",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "target-size",
+          "impact": "serious",
+          "description": "Ensure touch targets have sufficient size and space",
+          "nodes": [
+            {
+              "target": ["a[href$=\"#stage-2\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-3\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-4\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-5\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-6\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-7\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            },
+            {
+              "target": ["a[href$=\"#stage-8\"]"],
+              "summary": "Fix any of the following:\n  Target has insufficient size (16px by 3px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+            }
+          ]
+        }
+      ],
+      "incomplete": 2,
+      "passes": 25
+    }
+  ]
+}

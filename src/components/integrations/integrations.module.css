@@ -1,0 +1,78 @@
+.accountGrid,
+.topicGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.accountSection,
+.topic {
+  padding: 26px;
+}
+.accountSection h2,
+.topic h2 {
+  margin: 0 0 9px;
+  font-size: 1.15rem;
+}
+.accountSection p,
+.topic p {
+  color: var(--text-muted);
+}
+.unavailable {
+  display: inline-flex;
+  padding: 5px 9px;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+.accountSection a,
+.topic a {
+  color: var(--accent-text);
+  font-weight: 700;
+}
+.helpSearch {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.searchLabel {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+.searchInput {
+  width: 100%;
+  min-height: 54px;
+  padding: 0 16px;
+  color: var(--text);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  background: var(--surface-raised);
+  font: inherit;
+}
+.resultCount,
+.empty {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+.topic {
+  min-height: 210px;
+}
+.topic a {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.85rem;
+}
+@media (max-width: 850px) {
+  .accountGrid,
+  .topicGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 560px) {
+  .accountGrid,
+  .topicGrid {
+    grid-template-columns: 1fr;
+  }
+}
